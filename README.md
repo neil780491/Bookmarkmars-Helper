@@ -10,7 +10,7 @@ BookmarkMars is a site for sharing browser bookmarks. People can browse public c
 
 The site can search bookmarks or folders, open a collection to see its structure, and open a preview page for a single bookmark. It also provides download and export, plus bookmark tools, a bookmarklet, and an extension, in multiple interface languages.
 
-Website: (https://www.bookmarkmars.com/)[https://www.bookmarkmars.com/]
+Website: https://www.bookmarkmars.com/
 
 ## What this script does
 
